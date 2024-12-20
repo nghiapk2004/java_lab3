@@ -1,0 +1,5 @@
+Câu hỏi: Lớp Aims phải được cập nhật để xử lý bất kỳ ngoại lệ nào phát sinh khi gọi phương thức play(). Điều gì sẽ xảy ra nếu bạn không cập nhật để bắt chúng?
+
+Nếu không cập nhật lớp Aims để xử lý các ngoại lệ khi gọi phương thức play(), khi xảy ra lỗi, chương trình sẽ gặp sự cố và có thể bị dừng hoặc không hoạt động đúng.
+Ngoại lệ sẽ không được bắt và chương trình có thể bị gián đoạn hoặc có hành vi không mong muốn. 
+Việc không xử lý các ngoại lệ có thể khiến ứng dụng bị treo hoặc đóng đột ngột mà không có cảnh báo.
